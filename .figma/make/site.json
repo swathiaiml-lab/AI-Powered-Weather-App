@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered weather forecast application offers real-time updates, personalized recommendations, and interactive features for users seeking accurate weather insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
