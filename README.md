@@ -21,11 +21,7 @@ An AI-powered weather forecasting web application built using React, Vite, and O
 - JavaScript
 - HTML5
 - CSS3
-- OpenWeather API
-
-## 📸 Screenshot
-
-(Add your app screenshot here)
+- OpenWeather APP
 
 ## ▶️ Installation
 
