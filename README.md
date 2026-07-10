@@ -23,6 +23,10 @@ An AI-powered weather forecasting web application built using React, Vite, and O
 - CSS3
 - OpenWeather APP
 
+## 📸 Screenshot
+- <img width="1536" height="712" alt="image" src="https://github.com/user-attachments/assets/bbb0faa0-f6dd-459a-bba4-72c42820651d" />
+
+
 ## ▶️ Installation
 
 ```bash
